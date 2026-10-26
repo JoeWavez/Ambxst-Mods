@@ -1,0 +1,11 @@
+diff --git a/src/bar/modules/centerconsole/CenterConsole.qml b/src/bar/modules/centerconsole/CenterConsole.qml
+--- a/src/bar/modules/centerconsole/CenterConsole.qml
++++ b/src/bar/modules/centerconsole/CenterConsole.qml
+@@ -50,6 +50,10 @@
+             id: profileTab
+         }
+ 
++        BibleVerse {
++            Layout.fillWidth: true
++        }
++
