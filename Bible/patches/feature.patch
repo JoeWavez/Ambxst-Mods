@@ -1,0 +1,8 @@
+[
+  {
+    "target": "src/bar/modules/centerconsole/CenterConsole.qml",
+    "type": "append",
+    "after": "ProfileTab",
+    "code": "VerseWidget {}"
+  }
+]
