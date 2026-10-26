@@ -8,7 +8,7 @@ Rectangle {
     Layout.fillWidth: true
     implicitHeight: 160
     
-    color: "#1e1e2e" // Dark theme background matching typical Ambxst rices
+    color: "#1e1e2e" 
     radius: 12
     border.color: "#313244"
     border.width: 1
