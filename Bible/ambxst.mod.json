@@ -3,7 +3,9 @@
   "name": "Daily Bible Verse",
   "version": "1.0.0",
   "author": "JoeWaves",
-  "description": "Adds a daily Bible Verse to a widget in your center console.",
-  "compatibility": ">=1.3.0",
+  "description": "Daiy Bible Verse from KJV",
+  "compatibility": {
+    "ambxst": ">=1.0.0"
+  },
   "mode": "none"
 }
